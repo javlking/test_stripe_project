@@ -11,7 +11,7 @@ python -m venv venv
 ```
 5) Активируем виритуальное окружение через команду: 
 ```
-Linux: source venv/bin/activate;
+Linux: source venv/bin/activate
 Windows: venv\Scripts\activate
 ```
 6) Устанавливаем необходимые библиотеки: 
